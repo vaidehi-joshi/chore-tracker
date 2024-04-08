@@ -1,16 +1,9 @@
 
 # A. Project basic information
 
-## Team name 
-* Byte Squad
+
 ## Project Title 
 * Chore tracker
-## Current leader
-* Vaidehi Joshi
-## Next Leader
-* Nithish Reddy Agumamidi
-## Members
-* Nithish Reddy Agumamidi, Srujith Rao, Vaidehi Joshi
 
 ## Description
 
