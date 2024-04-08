@@ -13,11 +13,11 @@
 
 * https://github.com/vaidehi-joshi/chore-tracker
 
-# C. Job Assignments:
+# C. Tasks:
 
-* Nithish: Project management, UI/UX design oversight, Testing
-* Srujith: Database management, Security, Documentation
-* Vaidehi: Frontend/Backend development, Deployment
+Project management, UI/UX design oversight, Testing
+Database management, Security, Documentation
+Frontend/Backend development, Deployment
 
 # D. Milestones  with deadlines:
 * Project Planning and Design - Deadline: February 15, 2024
